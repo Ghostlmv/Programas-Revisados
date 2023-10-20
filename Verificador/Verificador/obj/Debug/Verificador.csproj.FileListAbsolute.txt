@@ -1,0 +1,7 @@
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Verificador\Verificador\bin\Debug\Verificador.exe.config
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Verificador\Verificador\bin\Debug\Verificador.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Verificador\Verificador\bin\Debug\Verificador.pdb
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Verificador\Verificador\obj\Debug\Verificador.csproj.AssemblyReference.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Verificador\Verificador\obj\Debug\Verificador.csproj.CoreCompileInputs.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Verificador\Verificador\obj\Debug\Verificador.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Verificador\Verificador\obj\Debug\Verificador.pdb
