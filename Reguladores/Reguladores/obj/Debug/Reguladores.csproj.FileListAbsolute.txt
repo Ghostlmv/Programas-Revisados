@@ -1,0 +1,7 @@
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Reguladores\Reguladores\bin\Debug\Reguladores.exe.config
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Reguladores\Reguladores\bin\Debug\Reguladores.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Reguladores\Reguladores\bin\Debug\Reguladores.pdb
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Reguladores\Reguladores\obj\Debug\Reguladores.csproj.AssemblyReference.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Reguladores\Reguladores\obj\Debug\Reguladores.csproj.CoreCompileInputs.cache
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Reguladores\Reguladores\obj\Debug\Reguladores.exe
+C:\Users\Alex Bello\Documents\Ejercicios en Visual\Semana 5\Reguladores\Reguladores\obj\Debug\Reguladores.pdb
